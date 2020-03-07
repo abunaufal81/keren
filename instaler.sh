@@ -11,15 +11,15 @@ red='\033[31;1m
 white='\033[37;1m
 
 echo $cyan.membuat Tools Instaler sendiri di termu"
-echo $green"Daftar Toolsnya=>
+echo $green"Daftar Toolsnya=>"
 echo $yellow"[1] DDOS Website Dengan LITEDDOS"
 echo $yellow"[2] DDOS Website Dengan Torshammer"
 echo $yellow"[3] DDOS Website Dengan Xerxes"
 echo $yellow"[4] DDOS website dengar hammer"
 echo 
 echo $green
-read -p "	[pilih nomer]
-	root@Dfv4='>"bro
+read -p "[pilih nomer]
+root@Dfv4='>"bro
 	
 
 if [ $bro = 2 ] || [ $bro = 2 ]
